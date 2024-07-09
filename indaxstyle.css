@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+img{
+    padding-left: 650px;
+    height: 500px;
+    width: 500px;
+     margin-right: 100% ;
+}
+button{
+    margin-left: 650px;
+    margin-top: 15px;
+    height: 40px;
+    width: 180;
+    border: solid gray;
+    background: linear-gradient(90deg, black, gray, black);
+    color: white;
+    border-radius: 15px;
+
+}
+button:hover{
+    background: linear-gradient(90deg,black,red,black);
+
+}
